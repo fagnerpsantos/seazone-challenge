@@ -1,0 +1,362 @@
+[
+{
+    "model": "v1.immobile",
+    "pk": 1,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": 13867,
+        "num_bathroom": 30172,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.5189986420595855,
+        "created_at": "2012-07-24T19:39:49Z",
+        "updated_at": "2020-04-09T08:49:21Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 2,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": 25335,
+        "num_bathroom": 16318,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.11336476499158243,
+        "created_at": "1983-07-23T12:50:56Z",
+        "updated_at": "1997-08-18T08:17:44Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 3,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": -10934,
+        "num_bathroom": -31170,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.39239401806125407,
+        "created_at": "1985-09-23T18:52:56Z",
+        "updated_at": "2017-11-05T08:22:23Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 4,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": 3842,
+        "num_bathroom": -468,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.5480331788235421,
+        "created_at": "2019-05-26T03:49:03Z",
+        "updated_at": "1982-11-07T12:24:51Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 5,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": -5120,
+        "num_bathroom": 4235,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.6727611002999705,
+        "created_at": "2013-07-05T07:30:39Z",
+        "updated_at": "2022-09-29T12:50:45Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 6,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": -27246,
+        "num_bathroom": -19448,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.6723378183218005,
+        "created_at": "1982-04-08T07:06:11Z",
+        "updated_at": "2002-09-20T15:31:37Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 7,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": -11968,
+        "num_bathroom": -11197,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.08405530973202713,
+        "created_at": "1979-08-26T19:01:32Z",
+        "updated_at": "2021-11-28T20:22:55Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 8,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": -13878,
+        "num_bathroom": 7711,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.15923075491106198,
+        "created_at": "1978-07-05T12:04:34Z",
+        "updated_at": "1988-02-10T07:34:46Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 9,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": 24337,
+        "num_bathroom": 773,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.9609689591085749,
+        "created_at": "1978-05-18T21:45:11Z",
+        "updated_at": "2018-07-16T12:22:39Z"
+    }
+},
+{
+    "model": "v1.immobile",
+    "pk": 10,
+    "fields": {
+        "code": "ypsm8HU",
+        "max_guests": -13660,
+        "num_bathroom": -1621,
+        "is_pet_friendly": true,
+        "cleaning_fee": 0.5836470674157509,
+        "created_at": "1980-04-20T12:49:08Z",
+        "updated_at": "1980-01-06T12:42:01Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 1,
+    "fields": {
+        "immobile": 5,
+        "platform_name": "Listen office worry agency. Evidence do whether partner exactly.",
+        "platform_fee": 0.4912685930024243,
+        "created_at": "2020-10-05T13:37:59Z",
+        "updated_at": "2012-01-21T07:16:23Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 2,
+    "fields": {
+        "immobile": 4,
+        "platform_name": "Put budget while probably also company. Have per last senior.",
+        "platform_fee": 0.41026919858195054,
+        "created_at": "2001-03-14T22:01:03Z",
+        "updated_at": "1987-09-08T19:32:20Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 3,
+    "fields": {
+        "immobile": 1,
+        "platform_name": "Data interesting drug be say single goal. Law case foreign player last happy fast.",
+        "platform_fee": 0.015847375016594833,
+        "created_at": "2007-07-07T10:40:58Z",
+        "updated_at": "1983-08-23T22:16:39Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 4,
+    "fields": {
+        "immobile": 9,
+        "platform_name": "Music enter expect number plan yes new. Land decision view age.",
+        "platform_fee": 0.3463525644609521,
+        "created_at": "1980-10-04T02:29:23Z",
+        "updated_at": "2022-09-13T07:13:10Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 5,
+    "fields": {
+        "immobile": 10,
+        "platform_name": "Yet career then fall science watch. Tough cut never will shake eye study.",
+        "platform_fee": 0.6918987041288854,
+        "created_at": "1993-11-09T05:53:50Z",
+        "updated_at": "2005-02-06T18:18:35Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 6,
+    "fields": {
+        "immobile": 10,
+        "platform_name": "Today society these trial surface evening.",
+        "platform_fee": 0.47165690425461093,
+        "created_at": "2019-04-03T15:05:01Z",
+        "updated_at": "1991-08-03T16:21:35Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 7,
+    "fields": {
+        "immobile": 4,
+        "platform_name": "Well before wait defense. I information coach dinner table. Begin get member affect beat.",
+        "platform_fee": 0.7001394727688887,
+        "created_at": "2000-03-10T11:04:07Z",
+        "updated_at": "1980-03-17T16:38:07Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 8,
+    "fields": {
+        "immobile": 5,
+        "platform_name": "Sell pretty first. Give receive middle skin.",
+        "platform_fee": 0.02973464187205388,
+        "created_at": "1987-08-03T03:03:41Z",
+        "updated_at": "2011-01-25T09:40:17Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 9,
+    "fields": {
+        "immobile": 7,
+        "platform_name": "None guess news often affect plant. Write actually despite customer list together share.",
+        "platform_fee": 0.5839979888628919,
+        "created_at": "2010-12-16T22:48:16Z",
+        "updated_at": "1998-01-22T16:07:45Z"
+    }
+},
+{
+    "model": "v1.ad",
+    "pk": 10,
+    "fields": {
+        "immobile": 1,
+        "platform_name": "Health senior law citizen behavior. Modern who identify quickly.",
+        "platform_fee": 0.5564252136737506,
+        "created_at": "1992-08-28T01:59:38Z",
+        "updated_at": "2017-01-22T20:15:52Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 1,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 9,
+        "checkin_date": "2007-04-10",
+        "checkout_date": "1994-05-07",
+        "created_at": "1991-03-30T19:27:18Z",
+        "updated_at": "1985-07-25T04:21:00Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 2,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 4,
+        "checkin_date": "2020-05-12",
+        "checkout_date": "1977-02-19",
+        "created_at": "1989-09-03T03:57:56Z",
+        "updated_at": "1991-03-15T20:46:36Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 3,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 4,
+        "checkin_date": "2021-10-17",
+        "checkout_date": "1986-01-03",
+        "created_at": "2008-06-04T02:11:31Z",
+        "updated_at": "1976-07-01T07:41:47Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 4,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 5,
+        "checkin_date": "1982-08-21",
+        "checkout_date": "2011-12-20",
+        "created_at": "1975-01-22T14:35:51Z",
+        "updated_at": "1993-08-26T22:40:50Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 5,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 3,
+        "checkin_date": "1970-07-23",
+        "checkout_date": "1971-11-24",
+        "created_at": "1999-09-21T00:39:57Z",
+        "updated_at": "2021-06-09T19:12:43Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 6,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 5,
+        "checkin_date": "1975-11-14",
+        "checkout_date": "2020-09-02",
+        "created_at": "2009-01-26T00:25:57Z",
+        "updated_at": "1999-09-06T17:17:44Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 7,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 3,
+        "checkin_date": "2018-10-06",
+        "checkout_date": "2000-04-26",
+        "created_at": "2017-07-10T18:08:32Z",
+        "updated_at": "1982-06-25T09:08:39Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 8,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 2,
+        "checkin_date": "1991-06-05",
+        "checkout_date": "2014-02-14",
+        "created_at": "1973-12-22T10:03:30Z",
+        "updated_at": "1998-08-10T08:19:42Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 9,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 6,
+        "checkin_date": "1994-08-05",
+        "checkout_date": "1971-12-03",
+        "created_at": "1986-07-27T19:40:17Z",
+        "updated_at": "2001-12-10T00:18:16Z"
+    }
+},
+{
+    "model": "v1.reservation",
+    "pk": 10,
+    "fields": {
+        "code": "6klImSs",
+        "ad": 3,
+        "checkin_date": "1996-04-29",
+        "checkout_date": "2005-11-02",
+        "created_at": "2001-05-05T18:28:21Z",
+        "updated_at": "2020-08-05T09:31:28Z"
+    }
+}
+]
